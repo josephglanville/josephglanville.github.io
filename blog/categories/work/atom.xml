@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Musings mostly]]></title>
-  <link href="http://josephglanville.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Work | Musings mostly]]></title>
+  <link href="http://josephglanville.github.io/blog/categories/work/atom.xml" rel="self"/>
   <link href="http://josephglanville.github.io/"/>
   <updated>2014-09-06T02:42:29+10:00</updated>
   <id>http://josephglanville.github.io/</id>
