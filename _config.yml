@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://josephglanville.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: Musings mostly
+subtitle: Dido Dididi Didtum
+author: Joseph Glanville
 simple_search: https://www.google.com/search
-description:
+description: A blog about distributed systems and other cool stuff.
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
