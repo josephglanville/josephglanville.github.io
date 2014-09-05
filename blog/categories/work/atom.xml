@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Work | Musings mostly]]></title>
   <link href="http://josephglanville.github.io/blog/categories/work/atom.xml" rel="self"/>
   <link href="http://josephglanville.github.io/"/>
-  <updated>2014-09-06T02:42:29+10:00</updated>
+  <updated>2014-09-06T02:45:16+10:00</updated>
   <id>http://josephglanville.github.io/</id>
   <author>
     <name><![CDATA[Joseph Glanville]]></name>
@@ -18,9 +18,9 @@
     <link href="http://josephglanville.github.io/blog/2014/09/06/new-beginnings/"/>
     <updated>2014-09-06T02:27:22+10:00</updated>
     <id>http://josephglanville.github.io/blog/2014/09/06/new-beginnings</id>
-    <content type="html"><![CDATA[<p>Started a new job, working with new technology and generally just embarking on new journeys.</p>
-
-<p>Going to be a fun ride! Expect writings on Mesos/Docker/Marathon and friends in the near future. :)</p>
+    <content type="html"><![CDATA[<p><strong>Hello Blogging!</strong>
+Started a new job, working with new technology and generally just embarking on new journeys.
+Going to be a fun ride! Expect writings on Mesos/Docker/Marathon and friends in the near future. :)</p>
 ]]></content>
   </entry>
   
